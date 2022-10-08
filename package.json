@@ -4,7 +4,7 @@
   "description": "Restaurant Georgia",
   "main": "index.js",
   "scripts": {
-    "compile": "sass --watch --no-source-map /scss/main.scss /css/style.css"
+    "compile": "sass --watch --no-source-map ./scss/main.scss ./css/style.css"
   },
   "repository": {
     "type": "git",
