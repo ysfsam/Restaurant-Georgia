@@ -1,0 +1,22 @@
+{
+  "name": "restaurant-site",
+  "version": "1.0.0",
+  "description": "Restaurant Georgia",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map /scss/main.scss /css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysfsam/Restaurant-Georgia.git"
+  },
+  "author": "Samuel Fanawopo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysfsam/Restaurant-Georgia/issues"
+  },
+  "homepage": "https://github.com/ysfsam/Restaurant-Georgia#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
